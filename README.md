@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Indu Lekha and I'm a UW-Madison student pursuing a data science degree.
+
+- I'm currently working on a fullstack web application to showcase my photography
+- 📫 How to reach me: ikonduru@wisc.edu
 <!--
 **klenduru/klenduru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
