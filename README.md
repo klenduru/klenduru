@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Indu Lekha and I'm a UW-Madison student pursuing a data science degree.
+My name is Indu and I'm a UW-Madison student pursuing a data science degree.
 
 - I'm currently working on a fullstack web application to showcase my photography
 - 📫 How to reach me: ikonduru@wisc.edu
